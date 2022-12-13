@@ -30,7 +30,7 @@ const Testimonials = () => {
             className={css.tCarousel}
             breakpoints={{856:{slidesPerView:3},
             640:{slidesPerView:2},
-            0:{slidesPerView:3}
+            0:{slidesPerView:1}
             }}
             >
 {
