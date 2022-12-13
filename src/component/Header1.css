@@ -37,4 +37,8 @@
         background-color: var(--appColor);
         padding:1.4rem;
     }
+
+    .logo{
+        right:20px;
+    }
 }
