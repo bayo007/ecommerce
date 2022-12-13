@@ -19,7 +19,7 @@ const Header = () => {
           onClick = {()=>setMenuOpened(true)}
           >
       
-          <GoThreeBars style={{width:'1.8rem', height:'1.5rem', cursor:"pointer" }}/>
+          <GoThreeBars style={{width:'1.8rem', height:'1.5rem', cursor:"pointer" , top:"20px"}}/>
           </div>
           
         ):
